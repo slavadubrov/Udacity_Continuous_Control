@@ -2,8 +2,7 @@
 
 ## Learning algorithm
 
-The learning algorithm used is DDPG as implemented in ddpg-pendulum exercise.
-Here is this algorithm from [original article](https://arxiv.org/abs/1509.02971):
+The learning algorithm used is [DDPG](https://arxiv.org/abs/1509.02971) as implemented in ddpg-pendulum exercise with elements of [A2C](https://arxiv.org/abs/1806.06914) because of using experience of 20 agents in the same time.
 
 ![results](images/algorithm.png)
 
