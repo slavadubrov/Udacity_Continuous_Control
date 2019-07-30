@@ -59,3 +59,11 @@ Episode: 3 Score: 39.51
 Episode: 4 Score: 39.36
 Episode: 5 Score: 39.32
 ```
+
+## Future improvements
+
+- Add prioritized experience replay
+- Experiment with other algorithms
+    - Proximal Policy Optimization (PPO) 
+    - Distributed Distributional Deterministic Policy Gradients (D4PG)
+    - etc.
